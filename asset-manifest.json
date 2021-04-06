@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webrave-staging/static/css/main.c70cbac7.chunk.css",
-    "main.js": "/webrave-staging/static/js/main.5100f5db.chunk.js",
-    "main.js.map": "/webrave-staging/static/js/main.5100f5db.chunk.js.map",
+    "main.js": "/webrave-staging/static/js/main.6c64c69b.chunk.js",
+    "main.js.map": "/webrave-staging/static/js/main.6c64c69b.chunk.js.map",
     "runtime-main.js": "/webrave-staging/static/js/runtime-main.e63d91b2.js",
     "runtime-main.js.map": "/webrave-staging/static/js/runtime-main.e63d91b2.js.map",
     "static/css/2.73aef6a2.chunk.css": "/webrave-staging/static/css/2.73aef6a2.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.73aef6a2.chunk.css",
     "static/js/2.71a94708.chunk.js",
     "static/css/main.c70cbac7.chunk.css",
-    "static/js/main.5100f5db.chunk.js"
+    "static/js/main.6c64c69b.chunk.js"
   ]
 }
