@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/webrave-staging/static/css/main.c70cbac7.chunk.css",
-    "main.js": "/webrave-staging/static/js/main.6c64c69b.chunk.js",
-    "main.js.map": "/webrave-staging/static/js/main.6c64c69b.chunk.js.map",
+    "main.js": "/webrave-staging/static/js/main.6f844d69.chunk.js",
+    "main.js.map": "/webrave-staging/static/js/main.6f844d69.chunk.js.map",
     "runtime-main.js": "/webrave-staging/static/js/runtime-main.e63d91b2.js",
     "runtime-main.js.map": "/webrave-staging/static/js/runtime-main.e63d91b2.js.map",
     "static/css/2.73aef6a2.chunk.css": "/webrave-staging/static/css/2.73aef6a2.chunk.css",
-    "static/js/2.71a94708.chunk.js": "/webrave-staging/static/js/2.71a94708.chunk.js",
-    "static/js/2.71a94708.chunk.js.map": "/webrave-staging/static/js/2.71a94708.chunk.js.map",
+    "static/js/2.3d01770e.chunk.js": "/webrave-staging/static/js/2.3d01770e.chunk.js",
+    "static/js/2.3d01770e.chunk.js.map": "/webrave-staging/static/js/2.3d01770e.chunk.js.map",
     "index.html": "/webrave-staging/index.html",
     "static/css/2.73aef6a2.chunk.css.map": "/webrave-staging/static/css/2.73aef6a2.chunk.css.map",
     "static/css/main.c70cbac7.chunk.css.map": "/webrave-staging/static/css/main.c70cbac7.chunk.css.map",
-    "static/js/2.71a94708.chunk.js.LICENSE.txt": "/webrave-staging/static/js/2.71a94708.chunk.js.LICENSE.txt",
+    "static/js/2.3d01770e.chunk.js.LICENSE.txt": "/webrave-staging/static/js/2.3d01770e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/webrave-staging/static/media/roboto-latin-900italic.cb5ad999.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.e63d91b2.js",
     "static/css/2.73aef6a2.chunk.css",
-    "static/js/2.71a94708.chunk.js",
+    "static/js/2.3d01770e.chunk.js",
     "static/css/main.c70cbac7.chunk.css",
-    "static/js/main.6c64c69b.chunk.js"
+    "static/js/main.6f844d69.chunk.js"
   ]
 }
